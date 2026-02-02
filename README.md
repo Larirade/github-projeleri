@@ -26,6 +26,15 @@ Kazanım: switch-case menü yapısı, while döngüsü ile süreklilik ve mantı
 
 Kazanım: Kümülatif toplama (+=) mantığı, döngü içerisinde matematiksel işlem yönetimi ve ara toplam gösterme fonksiyonu.
 
+Sıcaklık Takibi & Buzlanma Uyarısı (06-SicaklikTakibi.cpp)
+Özet: 5 günlük sıcaklık verilerini bir diziye alıp, donma noktası ve altındaki (≤0) değerleri tespit ederek anlık uyarı veren bir sistemdir. Kazanım:
+
+Diziler (Arrays): Birden fazla veriyi tek bir değişken altında vagonlar şeklinde yönetmek.
+
+İndis Yönetimi: Döngü değişkenini (i) dizi elemanlarına erişmek için kullanmak.
+
+Anlık Veri İşleme: Kullanıcıdan veri aldığı anda mantıksal kontrol (if) yapma pratiği.
+
 Geliştirme Araçları
 Dil: C++
 
